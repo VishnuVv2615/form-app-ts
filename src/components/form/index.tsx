@@ -25,7 +25,7 @@ const Form: React.FC = () => {
 
     const handleSubmit=(e:React.FormEvent)=>{
         e.preventDefault();
-        window.alert("hello");
+        window.alert("Venam Philipseyy:இத்துடன் விளையாட்டு செய்திகள் முடிவடைந்தன :நன்றி மீண்டும் வருக.....");
 
         setFormData({
             name: "",
